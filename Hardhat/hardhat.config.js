@@ -16,6 +16,8 @@ module.exports = {
   }
 
 };
-/*----------contract address-------*/
-//!CryptoDevs contract deployed at:  0xCD39AaED7CBbBA24affACEDb681aaC943676BEE2*/
+
+
+/*-------------------------------contract address---------------------*/
+//!CryptoDevs contract deployed at:   0x2348D7B249f2Ed3B72Eba65322F994BF4bF1648E
 /*-------------------------------------------------------------------- */
