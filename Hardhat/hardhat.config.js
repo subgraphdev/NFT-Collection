@@ -19,5 +19,5 @@ module.exports = {
 
 
 /*-------------------------------contract address---------------------*/
-//!CryptoDevs contract deployed at:    0x968c4ffA9615239e3cbB5Da0c4C335340A5Ce6dD
+//!CryptoDevs contract deployed at: 0x6986307dd5D0253b8567b69ff550840ae7401AC9
 /*-------------------------------------------------------------------- */
